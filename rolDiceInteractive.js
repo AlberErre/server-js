@@ -1,12 +1,6 @@
-const readline = require('readline');
 const readlineSync = require('readline-sync');
 
 function randomNumber () {
-
-	readline.createInterface({
-	  input: process.stdin,
-	  output: process.stdout
-	});
 
 	let result = readlineSync.question(`What dice's size do you want?`);
 

@@ -26,7 +26,6 @@
   },
   "homepage": "https://github.com/AlberErre/server-js#readme",
   "dependencies": {
-    "readline": "^1.3.0",
     "readline-sync": "^1.4.9"
   }
 }
