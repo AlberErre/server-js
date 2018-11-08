@@ -8,7 +8,8 @@
     "start": "node server.js && node dice.js",
     "dice": "node dice.js",
     "rolDice": "node rolDice.js",
-    "rolDiceInteractive": "node rolDiceInteractive.js"
+    "rolDiceInteractive": "node rolDiceInteractive.js",
+    "readFile": "node readFile.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,7 @@
   "keywords": [
     "node",
     "server",
-    "hola"
+    "files"
   ],
   "author": "Alber Erre",
   "license": "MIT",
