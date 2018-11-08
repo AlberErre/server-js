@@ -1,0 +1,27 @@
+{
+  "name": "server-js-albererre",
+  "version": "1.0.0",
+  "description": "playing around with node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js && node dice.js",
+    "dice": "node dice.js",
+    "rolDice": "node rolDice.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlberErre/server-js.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "hola"
+  ],
+  "author": "Alber Erre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlberErre/server-js/issues"
+  },
+  "homepage": "https://github.com/AlberErre/server-js#readme"
+}
